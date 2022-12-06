@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="buy_and_sell">Buy and Sell</string>
+    <string name="_25">$25</string>
+    <string name="product">Product</string>
+    <string name="search">Search</string>
+    <string name="cart">Cart</string>
+    <string name="bag">Bag</string>
+    <string name="furniture">Furniture</string>
+    <string name="textbooks">TextBooks</string>
+</resources>
